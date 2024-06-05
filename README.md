@@ -9,6 +9,7 @@ Additionally, the tool analyzes autocorrelation in model residuals to identify a
 In summary, the Model Analyzer Tool is an invaluable asset for analyzing and evaluating modeling results. Its intuitive interface, detailed plots, and automated efficiency index calculations make it an all-encompassing and effective tool for model analysis.
 
 For more information, you can download the 'Formulas.pdf' and 'Tutorial.pdf' files using the buttons provided above.
+
 Links:
 https://agrimetsoft.com/
 
